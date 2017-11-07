@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Philippine Currency Converter</string>
+    <string name="inputHere">Input Here To Convert your Currency</string>
+    <string name="dollarToPeso">Convert Dollar to Philippine Peso</string>
+    <string name="pesoToDollar">Convert Peso to US Dollar</string>
+    <string name="pressHere">Press to Convert</string>
+</resources>
